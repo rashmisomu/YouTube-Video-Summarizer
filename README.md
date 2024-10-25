@@ -62,11 +62,7 @@ Enter YouTube Video Link: https://www.youtube.com/watch?v=ABC123XYZ
 **Output:**
 - Summary of the video in key points.
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - [Streamlit](https://streamlit.io/)
